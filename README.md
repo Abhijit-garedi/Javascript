@@ -1,4 +1,4 @@
-# javascript_workshop
-This is my first repository.
+# First Semester 
+This is my 1st & 2nd sem repository.
 
 author - Abhijit Garedi
