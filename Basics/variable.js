@@ -7,7 +7,7 @@ accountCity = "Janakpur"
 
 accountEmail = "havic.com"
 accountPassword = "21212121"
-accountCity = "sonagachi"
+accountCity = "Kathmandu"
 
 
 console.log(accountId);

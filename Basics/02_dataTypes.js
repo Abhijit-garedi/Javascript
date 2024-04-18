@@ -34,3 +34,5 @@ let state = null
 
 console.log(typeof "abhijit")
 console.log(typeof undefined)
+
+console.log(typeof "I am a Programmer")
