@@ -10,3 +10,5 @@ console.log("abhijit")
  console.log("My hobbies is Stock Trading");
 
  console.log("I love Programming");
+
+ console.log("I am pursuing my Computer Science Engineering")
