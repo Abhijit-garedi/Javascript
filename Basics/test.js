@@ -7,7 +7,7 @@ console.log("abhijit")
 
  console.log("I am 20 years old");
 
- console.log("My hobbies is Stock Trading");
+ console.log("My hobbies is Stock Trading & Gardening");
 
  console.log("I love Programming");
 
